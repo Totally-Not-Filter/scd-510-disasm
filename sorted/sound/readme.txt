@@ -1,0 +1,1 @@
+OPN.STM is a mono 8-bit PCM with sign bit audio file split into banks that runs at 32768hz.
