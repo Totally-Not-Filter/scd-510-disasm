@@ -4,3 +4,4 @@ zeroOffsetOptimization = 0	; if 1, makes a handful of zero-offset instructions s
 
 		include	"MacroSetup.asm"
 		include	"sorted/header/header.asm"
+		binclude	"sorted/init/IP.BIN"
